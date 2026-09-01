@@ -39,8 +39,8 @@ const VIDEOS = [
   },
   {
     id: "v3",
-    title: "Junior Fun Tournament Highlights",
-    description: "Best rallies, celebrations, and trophy moments from our Sunday junior mini-tournament.",
+    title: "Tournament Highlight Reel",
+    description: "Blistering rallies, clutch points, and podium celebrations from our latest sanctioned tournament run.",
     category: "fun",
     duration: "3:05",
     type: "youtube",
@@ -59,8 +59,8 @@ const VIDEOS = [
   },
   {
     id: "v5",
-    title: "Friday Social Night Round-Robin",
-    description: "Laughs, long rallies, and friendly trash talk from our weekly social meetup.",
+    title: "Saturday Open Squad Rally Night",
+    description: "High-intensity rallies, trash talk, and match-cam moments from our weekly open squad night.",
     category: "fun",
     duration: "2:47",
     type: "youtube",
@@ -69,7 +69,7 @@ const VIDEOS = [
   },
   {
     id: "v6",
-    title: "League Finals: NextGen TT vs. Riverside",
+    title: "National League Finals: NextGen TT vs. Riverside",
     description: "Full highlight reel from our travel team's league championship match.",
     category: "matches",
     duration: "7:33",
@@ -90,7 +90,7 @@ const VIDEOS = [
   {
     id: "v8",
     title: "Behind the Scenes: Setting Up the Hall",
-    description: "A day in the life of getting NextGen TT's hall ready before a Saturday open-play session.",
+    description: "A day in the life of getting NextGen TT's hall ready before a Saturday open squad session.",
     category: "fun",
     duration: "2:10",
     type: "youtube",
@@ -99,8 +99,8 @@ const VIDEOS = [
   },
   {
     id: "v9",
-    title: "Junior Development: First Rally Milestones",
-    description: "Celebrating our newest players landing their first sustained rallies.",
+    title: "Elite Squad: Breaking the 2400 Barrier",
+    description: "Following one of our athletes' training block as they crossed the 2400 rating threshold.",
     category: "training",
     duration: "3:34",
     type: "youtube",
