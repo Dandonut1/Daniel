@@ -69,7 +69,7 @@ const VIDEOS = [
   },
   {
     id: "v6",
-    title: "League Finals: SpinZone vs. Riverside",
+    title: "League Finals: NextGen TT vs. Riverside",
     description: "Full highlight reel from our travel team's league championship match.",
     category: "matches",
     duration: "7:33",
@@ -90,7 +90,7 @@ const VIDEOS = [
   {
     id: "v8",
     title: "Behind the Scenes: Setting Up the Hall",
-    description: "A day in the life of getting SpinZone's hall ready before a Saturday open-play session.",
+    description: "A day in the life of getting NextGen TT's hall ready before a Saturday open-play session.",
     category: "fun",
     duration: "2:10",
     type: "youtube",

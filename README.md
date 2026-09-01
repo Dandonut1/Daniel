@@ -1,4 +1,4 @@
-# SpinZone Table Tennis Academy — Website
+# NextGen TT — Website
 
 A static website for a table tennis training group: hero/landing page, programs,
 weekly schedule, coach profiles, pricing, testimonials, FAQ, a contact/booking

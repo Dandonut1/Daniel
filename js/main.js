@@ -1,4 +1,4 @@
-// SpinZone Table Tennis Academy — shared front-end behavior
+// NextGen TT — shared front-end behavior
 
 document.addEventListener('DOMContentLoaded', () => {
   // Footer year
