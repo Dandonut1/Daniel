@@ -143,10 +143,10 @@ section { padding: 88px 0; }
   display: flex;
   align-items: center;
   gap: 10px;
-  font-family: 'Poppins', sans-serif;
-  font-weight: 800;
-  font-size: 1.25rem;
-  letter-spacing: -0.02em;
+  font-family: 'Lobster', cursive;
+  font-weight: 400;
+  font-size: 1.5rem;
+  letter-spacing: 0;
 }
 .brand .ball {
   width: 30px; height: 30px;
